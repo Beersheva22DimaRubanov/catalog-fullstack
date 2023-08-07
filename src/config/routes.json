@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "to": "/",
+      "name": "Home",
+      "order": 1
+    },
+
+    {
+      "to": "/add/newAnnouncement",
+      "name": "Add Announcement",
+      "order": 1
+    },
+    
+    {
+      "to": "/pricePage",
+      "name": "Price page",
+      "order": 1
+    },
+    {
+      "to": "/categories",
+      "name": "Categories page",
+      "order": 1
+    }
+  ]
+}
